@@ -8,11 +8,6 @@ fpdf
 python-docx
 deep-translator
 qrcode
-io
-re
 bs4
-docx
-docx.shared
-datetime
 langdetect
 language_tool_python
