@@ -13,7 +13,6 @@ from deep_translator import GoogleTranslator
 from langdetect import detect
 from language_tool_python import LanguageTool
 
-PROJECT_TITLE = "AI Web Sayfası Özeti"
 
 lang_map = {
     "Türkçe": None,
